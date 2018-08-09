@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: telcosmart-api-gateway
+    
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9091/eureka
+   

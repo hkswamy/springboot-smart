@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: telcosmart-profile
+    
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9091/eureka
+   

@@ -1,0 +1,12 @@
+{
+	"profileId" :1001,
+	"username" : "kumaraswami.hosuru",
+	"password" : "Telco123",
+	"email" : "kumarswami.hosuru@sapient.com",
+	"smsRecoveryNumber" : "+91-9059410215",
+	"accounts": [
+        { "accountNumber": 100001, "accountName": "kumaraswami-acc1",  "accountType": "Work","accountStatus":"Active"},
+        { "accountNumber": 100002, "accountName": "kumaraswami-acc2",  "accountType": "Home","accountStatus":"Active"},
+        { "accountNumber": 100003, "accountName": "kumaraswami-acc3",  "accountType": "Business","accountStatus":"Active"},
+    ]
+}
